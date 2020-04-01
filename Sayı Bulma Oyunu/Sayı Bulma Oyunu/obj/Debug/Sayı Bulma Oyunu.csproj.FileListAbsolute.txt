@@ -1,0 +1,11 @@
+C:\Users\canci\Documents\Visual Studio 2019\Sayı Bulma Oyunu\Sayı Bulma Oyunu\bin\Debug\Sayı Bulma Oyunu.exe.config
+C:\Users\canci\Documents\Visual Studio 2019\Sayı Bulma Oyunu\Sayı Bulma Oyunu\bin\Debug\Sayı Bulma Oyunu.exe
+C:\Users\canci\Documents\Visual Studio 2019\Sayı Bulma Oyunu\Sayı Bulma Oyunu\bin\Debug\Sayı Bulma Oyunu.pdb
+C:\Users\canci\Documents\Visual Studio 2019\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı Bulma Oyunu.csprojAssemblyReference.cache
+C:\Users\canci\Documents\Visual Studio 2019\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı_Bulma_Oyunu.Start.resources
+C:\Users\canci\Documents\Visual Studio 2019\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı_Bulma_Oyunu.Properties.Resources.resources
+C:\Users\canci\Documents\Visual Studio 2019\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı Bulma Oyunu.csproj.GenerateResource.cache
+C:\Users\canci\Documents\Visual Studio 2019\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı Bulma Oyunu.exe
+C:\Users\canci\Documents\Visual Studio 2019\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı Bulma Oyunu.pdb
+C:\Users\canci\Documents\Visual Studio 2019\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı_Bulma_Oyunu.Game.resources
+C:\Users\canci\Documents\Visual Studio 2019\Sayı Bulma Oyunu\Sayı Bulma Oyunu\obj\Debug\Sayı_Bulma_Oyunu.Score.resources
